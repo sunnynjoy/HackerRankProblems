@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.gitignore
+.idea/
+HackerRankProblems.iml
+src/.DS_Store
+src/main/.DS_Store
